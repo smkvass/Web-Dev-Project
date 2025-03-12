@@ -1,2 +1,2 @@
 # Web-Dev-Project
-Smakova Saya, Zhandarbek Mereke, Akayev Mansur
+Members: Smakova Saya, Zhandarbek Mereke, Akayev Mansur
